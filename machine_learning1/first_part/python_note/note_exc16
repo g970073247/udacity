@@ -1,0 +1,6 @@
+google python standard library
+import time
+import webbrowser
+time.ctime()
+webbrowser.open()
+
